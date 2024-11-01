@@ -27,10 +27,6 @@ This is a simple To-Do List web application created using **HTML**, **CSS**, and
 2. Open `index.html` in any modern web browser.
 3. You can now use the To-Do List web app to add, complete, and delete tasks!
 
-## Screenshots
-
-![To-Do List Interface](todo.jpg)
-
 ## Usage
 
 - **Adding a Task**: Enter a task in the input field and click the "Add" button.
